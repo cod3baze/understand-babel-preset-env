@@ -1,6 +1,6 @@
 # @Babel
 
-  >Transforma as features do ES6 | ES7.. de forma que os navegadores entendaõ.
+  >Transforma as features do ES6 | ES7.. de forma que os navegadores entendam.
 
 ## Libs
 
