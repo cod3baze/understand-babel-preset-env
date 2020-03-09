@@ -2,5 +2,5 @@
   // determinar qual ambiente o babel vai ser usado,
   // [preser-ev ]-> vai entender que estamos trabalhando mo navegador e converter
   // as features do ES6... que os navegadores ainda não entendem.
-  "presets": ["@babel/preset-ev"],
+  "presets": ["@babel/preset-env"],
 }
